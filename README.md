@@ -14,11 +14,15 @@ To start using the API locally, follow these steps:
 
 The API will be accessible at `http://127.0.0.1:8000/api/v1/`.
 
+![Screenshot (30)](https://github.com/NirajPatel07/Company-Employee-Management-API/assets/66070865/57b981bf-6c12-4aba-aad6-ca91f5bee3a0)
+
 ## API Endpoints
 
 - **Company API:** This endpoint allows you to manage company data.
 
 Endpoint: `http://127.0.0.1:8000/api/v1/companies/`
+
+![Screenshot (29)](https://github.com/NirajPatel07/Company-Employee-Management-API/assets/66070865/bcfd61a5-b725-43a7-b5cc-dcb46e674d67)
 
 - `GET /` : Get a list of all companies.
 - `POST /` : Create a new company.
@@ -29,6 +33,8 @@ Endpoint: `http://127.0.0.1:8000/api/v1/companies/`
 - **Employee API:** This endpoint allows you to manage employee data.
 
 Endpoint: `http://127.0.0.1:8000/api/v1/employees/`
+
+![Screenshot (28)](https://github.com/NirajPatel07/Company-Employee-Management-API/assets/66070865/19f2c957-62ac-4720-9cac-36664fa2cecd)
 
 - `GET /` : Get a list of all employees.
 - `POST /` : Create a new employee.
